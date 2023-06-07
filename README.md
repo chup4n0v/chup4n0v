@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chup4n0v
 - 👀 I’m interested in Back-End programming
 - 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me:
+-  atajanchupanov17@gmail.com
 
 <!---
 chup4n0v/chup4n0v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
